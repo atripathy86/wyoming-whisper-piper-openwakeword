@@ -11,6 +11,6 @@ mkdir -p whisper_data
 - `docker compose up -d` 
 - This will standup the following services: 
 	- Piper (TTS): http://localhost:10200
-   	- Faster-Whisper (STT): ttp://localhost:10300
+   	- Faster-Whisper (STT): http://localhost:10300
 	- OpenWakeWord: http://localhost:10400 
 
